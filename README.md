@@ -23,7 +23,6 @@ A developer focused on learning, building, and growing.
 
 
 ## 🚀 Favorite Tech
----
 
 <div align="center">
 
