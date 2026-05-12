@@ -28,24 +28,67 @@ A developer focused on learning, building, and growing.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=dart" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/> &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="65"/><br><br>Flutter
+</td>
 
-<br><br>
+<td width="40"></td>
 
-**Flutter** &nbsp;&nbsp;&nbsp;&nbsp;
-**Dart** &nbsp;&nbsp;&nbsp;&nbsp;
-**HTML** &nbsp;&nbsp;&nbsp;&nbsp;
-**CSS** &nbsp;&nbsp;&nbsp;&nbsp;
-**JavaScript** &nbsp;&nbsp;&nbsp;&nbsp;
-**Python** &nbsp;&nbsp;&nbsp;&nbsp;
-**AI/ML** &nbsp;&nbsp;&nbsp;&nbsp;
-**GitHub**
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dart" width="65"/><br><br>Dart
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br><br>HTML
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br><br>CSS
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="65"/><br><br>JavaScript
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>Python
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br><br>AI/ML
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br><br>GitHub
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br><br>Data Structures
+</td>
+
+<td width="40"></td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>Data Analytics
+</td>
+
+</tr>
+</table>
 
 </div>
