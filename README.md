@@ -5,10 +5,16 @@ A developer focused on learning, building, and growing.
 
 
 🎓 B.Tech Information Technology Graduate
+
 💻 Flutter  Developer
+
 🚀 Building modern web and mobile applications
+
 🌱 Exploring advanced Flutter Developer
+
 💬 Interested in Flutter, web development, and app design
+
 📫 Open to opportunities and collaborations
+
 ✨ Turning creative ideas into digital solutions
 
