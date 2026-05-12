@@ -24,69 +24,53 @@ A developer focused on learning, building, and growing.
 
 
 ## 🚀 Favorite Tech
----
+
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="65"/><br><br>Flutter
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flutter" width="70"/><br><br>Flutter
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=dart" width="65"/><br><br>Dart
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=dart" width="70"/><br><br>Dart
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br><br>HTML
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="70"/><br><br>HTML
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br><br>CSS
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="70"/><br><br>CSS
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="65"/><br><br>JavaScript
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="70"/><br><br>JavaScript
 </td>
+</tr>
 
-<td width="40"></td>
+<tr>
+<td height="40"></td>
+</tr>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>Python
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="70"/><br><br>Python
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br><br>AI/ML
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="70"/><br><br>AI/ML
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br><br>GitHub
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="70"/><br><br>GitHub
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br><br>Data Structures
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp" width="70"/><br><br>Data Structures
 </td>
-
-<td width="40"></td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br><br>Data Analytics
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="70"/><br><br>Data Analytics
 </td>
+</tr>
+</table>
+
+</div>
 
 </tr>
 </table>
