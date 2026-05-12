@@ -22,56 +22,48 @@ A developer focused on learning, building, and growing.
 
 
 
-
 ## 🚀 Favorite Tech
-
+---
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=flutter" width="70"/><br><br>Flutter
 </td>
-<td align="center" width="120">
+
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=dart" width="70"/><br><br>Dart
 </td>
-<td align="center" width="120">
+
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=html" width="70"/><br><br>HTML
 </td>
-<td align="center" width="120">
+
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=css" width="70"/><br><br>CSS
 </td>
-<td align="center" width="120">
+
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=js" width="70"/><br><br>JavaScript
 </td>
-</tr>
 
-<tr>
-<td height="40"></td>
-</tr>
-
-<tr>
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=python" width="70"/><br><br>Python
 </td>
-<td align="center" width="120">
+
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="70"/><br><br>AI/ML
 </td>
-<td align="center" width="120">
+
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=github" width="70"/><br><br>GitHub
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=cpp" width="70"/><br><br>Data Structures
-</td>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=python" width="70"/><br><br>Data Analytics
 </td>
 </tr>
 </table>
 
 </div>
-
 </tr>
 </table>
 
