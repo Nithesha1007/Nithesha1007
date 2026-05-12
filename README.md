@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there 👋 I'm Nithesha
+💻 Flutter & Frontend Developer
+🎓 B.Tech IT Student
+🚀 Building modern web & mobile applications
 
-<!--
-**Nithesha1007/Nithesha1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 About Me
+🌱 Learning Flutter & Full Stack Development
+💡 Passionate about UI/UX Design
+🛍️ Creator of Craft Delight
+📱 Interested in Mobile App Development
+🎯 Goal: Become a Flutter Developer
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter
+- Dart
+- HTML
+- CSS
+- JavaScript
+- Python
+- GitHub
+- Figma
+
+📌 Projects
+
+✨ Craft Delight  
+🛒 Handmade Product Store
+
+✨ Low Code App Builder
+
+
+
+
+📫 Connect With Me
+
+- LinkedIn
+- GitHub
