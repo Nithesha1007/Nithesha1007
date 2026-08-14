@@ -80,40 +80,7 @@ GitHub
 REST API
 </td>
 
-<td align="center" width="130">
-⚡<br><br>
-BLoC
-</td>
 
-<td align="center" width="130">
-⚡<br><br>
-Provider
-</td>
-
-<td align="center" width="130">
-⚡<br><br>
-GetX
-</td>
-
-<td align="center" width="130">
-🗄️<br><br>
-PostgreSQL
-</td>
-
-<td align="center" width="130">
-☁️<br><br>
-AWS
-</td>
-
-<td align="center" width="130">
-🔴<br><br>
-Redis
-</td>
-
-<td align="center" width="130">
-🔍<br><br>
-Elasticsearch
-</td>
 
 </tr>
 
@@ -128,8 +95,6 @@ Elasticsearch
 * ⚡ **State Management** — BLoC, Provider & GetX
 * 🔥 **Backend Services** — Firebase
 * 🌐 **Web Development** — HTML, CSS & JavaScript
-* 🗄️ **Databases & Services** — PostgreSQL, Redis & Elasticsearch
-* ☁️ **Cloud Technologies** — AWS
 * 🛠️ **Version Control** — Git & GitHub
 
 ## 🎯 Current Focus
@@ -143,7 +108,7 @@ Elasticsearch
 
 ## 📌 Areas of Interest
 
-**Flutter Development • Mobile Applications • REST APIs • State Management • Firebase • Web Development • UI/UX • Software Development**
+**Flutter Development • Mobile Applications • REST APIs • State Management • Firebase • Web Development • Software Development**
 
 ## 🤝 Let's Connect
 
